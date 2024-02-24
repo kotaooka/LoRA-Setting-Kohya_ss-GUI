@@ -1,9 +1,9 @@
 # LoRA Settings for Kohya_ss GUI
 
 ## 概要
-  このjsonファイルはKohya_ss GUIを使って、8GB程度の低VRAM環境でLoRA学習をするための設定ファイルです。
+  このjsonファイルは [Kohya_ss GUI](https://github.com/bmaltais/kohya_ss) を使って、8GB程度の低VRAM環境でLoRA学習をするための設定ファイルです。
   
-  https://github.com/bmaltais/kohya_ss
+ 
 
   ![image](https://github.com/kotaooka/LoRASetting-Kohya_ss-GUI/assets/115392256/522b8052-310d-4f4a-a82b-8334895214e9)
 
