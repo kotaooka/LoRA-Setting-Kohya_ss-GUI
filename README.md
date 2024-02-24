@@ -1,7 +1,7 @@
 # LoRA Settings for Kohya_ss GUI
 
 ## 概要
-  このjsonファイルは低VRAM環境で768×768のLoRA学習をするための設定ファイルです。
+  このjsonファイルは低VRAM環境でLoRA学習をするための設定ファイルです。
   
   https://github.com/bmaltais/kohya_ss
 
