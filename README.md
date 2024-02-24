@@ -8,8 +8,8 @@
   ![image](https://github.com/kotaooka/LoRASetting-Kohya_ss-GUI/assets/115392256/522b8052-310d-4f4a-a82b-8334895214e9)
 
 ## 使い方
-  1. jsonファイルをダウンロードして Kohya ss GUIのLoRAタブから読み込んでください
-  2. 学習用画像ファイルの場所などは個別に指定してください
+  1. jsonファイルをKohya ss GUIのLoRAタブから読み込んでください
+  2. 学習用画像ファイルの場所などの下記項目は自身で指定してください
   ```
     Pretrained model name or path
     Image folder
